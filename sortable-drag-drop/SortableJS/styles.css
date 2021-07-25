@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#items {
+    background-color: #555;
+    padding: 1rem;
+}
+
+#items li {
+    display: block;
+    
+    margin-bottom: 1rem;
+    padding: 1rem;
+
+    border-radius: 8px;
+
+    background-color: white;
+}
